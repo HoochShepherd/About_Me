@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Adam Roberts</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">Hey, my name is Adam.
+        \n\nI have two kids, two cats that I\'m allergic to, two lizards, and a flying squirrel.
+        \n\nAfter getting a philosophy degree from a now defunct school, I spent years fixing mowers
+        and other small engines. At the time I was a single dad of one and barely treading water, so
+        I decided to get a degree some one would want. Two years later I got my Computer Science
+        degree, an amazing wife, and a second kid.\n\nNow I am learning kotlin app development to
+        make up for my lack of practical experience, with the goal getting a job in app
+        developement!</string>
+    <string name="what_is_your_nickname">\"What is your nickname?\"</string>
+
+
+</resources>
